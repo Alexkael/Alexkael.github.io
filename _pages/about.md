@@ -25,12 +25,18 @@ His research focuses on developing efficient, reliable algorithms (generalizatio
 
 - [Weight Expansion: A New Perspective on Dropout and Generalization](https://arxiv.org/abs/2201.09209), TMLR (under check for camera-ready version)  
   **Gaojie Jin**, Xinping Yi, Pengfei Yang, Lijun Zhang, Sven Schewe, Xiaowei Huang
-
 - [Enhancing Adversarial Training with Second-Order Statistics of Weights](https://arxiv.org/abs/2203.06020), CVPR 2022    
   **Gaojie Jin**, Xinping Yi, Wei Huang, Sven Schewe, Xiaowei Huang
-  
 - [How does Weight Correlation Affect the Generalisation Ability of Deep Neural Networks](https://arxiv.org/abs/2010.05983), NeurIPS 2020    
   **Gaojie Jin**, Xinping Yi, Liang Zhang, Lijun Zhang, Sven Schewe, Xiaowei Huang
+
+# Teaching Assistant
+
+- Foundations of Computer Science
+- Advanced Artificial Intelligence
+- Object-oriented Programming
+- Software Engineering I
+- Computer Vision CODING SKILL
 
 # Educations
 - *2019 - 2022(now)*,  Ph.D. in Computer Science, University of Liverpool 

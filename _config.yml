@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Gaojie Jin"
   avatar           : "images/gaojie.jpeg"
-  bio              : "Lorem ipsum College"
-  location         : "Liverpool, UK"
+  bio              : 
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=n_cu7jwAAAAJ&hl=en&oi=sra"

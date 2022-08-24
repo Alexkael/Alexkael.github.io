@@ -30,13 +30,13 @@ His research focuses on developing efficient, reliable algorithms (generalizatio
 - [How does Weight Correlation Affect the Generalisation Ability of Deep Neural Networks](https://arxiv.org/abs/2010.05983), NeurIPS 2020    
   **Gaojie Jin**, Xinping Yi, Liang Zhang, Lijun Zhang, Sven Schewe, Xiaowei Huang
 
-# Teaching Assistant
+# Teaching Assistant (University of Liverpool)
 
 - Foundations of Computer Science
 - Advanced Artificial Intelligence
 - Object-oriented Programming
 - Software Engineering I
-- Computer Vision CODING SKILL
+- Computer Vision
 
 # Educations
 - *2019 - 2022(now)*,  Ph.D. in Computer Science, University of Liverpool 

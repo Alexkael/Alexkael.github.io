@@ -38,11 +38,6 @@ His research focuses on developing efficient, reliable algorithms (generalizatio
 - Software Engineering I
 - Computer Vision
 
-# Educations
-- *2019 - 2022(now)*,  Ph.D. in Computer Science, University of Liverpool 
-- *2017 - 2018*, M.S. in Computer Science, University of Liverpool 
-- *2012 - 2016*, B.S. in Electronics, Peking University. 
-
 # Reviewer
 - ICML 2021, 2022
 - NeurIPS 2021, 2022

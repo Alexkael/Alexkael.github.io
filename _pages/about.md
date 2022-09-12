@@ -23,7 +23,7 @@ His research focuses on developing efficient, reliable algorithms (generalizatio
 
 # Publications 
 
-- [Weight Expansion: A New Perspective on Dropout and Generalization](https://openreview.net/forum?id=w3z3sN1b04), TMLR (under check for camera-ready version)  
+- [Weight Expansion: A New Perspective on Dropout and Generalization](https://openreview.net/forum?id=w3z3sN1b04), TMLR
   **Gaojie Jin**, Xinping Yi, Pengfei Yang, Lijun Zhang, Sven Schewe, Xiaowei Huang
 - [Enhancing Adversarial Training with Second-Order Statistics of Weights](https://arxiv.org/abs/2203.06020), CVPR 2022    
   **Gaojie Jin**, Xinping Yi, Wei Huang, Sven Schewe, Xiaowei Huang

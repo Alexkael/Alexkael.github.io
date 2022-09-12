@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Gaojie is a final year PhD student in computer science at university of Liverpool, under the advisory of [Prof. Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/) and [Dr. Xinping Yi](https://sites.google.com/site/xinpingyi00/).
+I am a final year PhD student in computer science at university of Liverpool, under the advisory of [Prof. Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/) and [Dr. Xinping Yi](https://sites.google.com/site/xinpingyi00/).
 
-His research focuses on developing efficient, reliable algorithms (generalization, robustness, privacy, interpretability, etc) for modern machine learning models and applications, with formal theoretical guarantees and analyses. He is also interested in applying machine learning techniques to vision and financial applications.
+My research focuses on developing efficient, reliable algorithms (generalisation, robustness, privacy, interpretability, etc) for modern machine learning models and applications, with formal theoretical guarantees and analyses. I am also interested in applying machine learning techniques to vision and financial applications.
 
 # Publications 
 

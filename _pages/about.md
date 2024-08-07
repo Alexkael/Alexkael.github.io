@@ -17,12 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a lecturer in Computer Science at the University of Exeter.
-Prior to that I worked at the Chinese Academy of Sciences, University of Liverpool. I obtained my PhD in the Department of Computer Science at the University of Liverpool, under the advisory of [Prof. Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/) and [Prof. Xinping Yi](https://sites.google.com/site/xinpingyi00/).
+I am a Lecturer in Computer Science at the University of Exeter, building on my previous experiences at the Chinese Academy of Sciences and the University of Liverpool. I earned my PhD from the University of Liverpool, under the guidance of [Prof. Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/) and [Prof. Xinping Yi](https://sites.google.com/site/xinpingyi00/).
 
-My research focuses on developing efficient, reliable algorithms (generalisation, robustness, privacy, interpretability, etc) for modern machine learning models and applications, with formal theoretical guarantees and analyses. I am also interested in building trustworthy LLMs.
+My research centres on developing efficient and reliable algorithms for modern machine learning models and applications. I focus on key aspects such as generalisation, robustness, privacy, and interpretability, always striving to provide formal theoretical guarantees and analyses. Additionally, I am actively engaged in the emerging field of building trustworthy Large Language Models (LLMs).
 
-We have multiple openings for PhD/internship positions for 2024/25 entry. Scholarships are available from [University of Exeter](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/), [CSC-Exeter](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/). Please feel free to contact me g.jin@exeter.ac.uk if you are interested in these positions.
+I am pleased to announce multiple openings for PhD and internship positions for the 2024/25 academic year. Scholarships are available through the [University of Exeter](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/) and the [CSC-Exeter program](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/). If you are interested in these opportunities or would like to discuss potential collaborations, please don't hesitate to contact me at g.jin@exeter.ac.uk.
 
 # Publications 
 - Out-of-Bounding-Box Trigger: A Stealthy Approach to Cheat Object Detector, ECCV 2024  
@@ -44,8 +43,7 @@ We have multiple openings for PhD/internship positions for 2024/25 entry. Schola
 - [How does Weight Correlation Affect the Generalisation Ability of Deep Neural Networks](https://arxiv.org/abs/2010.05983), NeurIPS 2020    
   **Gaojie Jin**, Xinping Yi, Liang Zhang, Lijun Zhang, Sven Schewe, Xiaowei Huang
 
-# Teaching
-
+# Teaching 
 - ECM1416: Computational Mathematics
 
 # Reviewer

@@ -22,6 +22,8 @@ Prior to that I worked at the Chinese Academy of Sciences, University of Liverpo
 
 My research focuses on developing efficient, reliable algorithms (generalisation, robustness, privacy, interpretability, etc) for modern machine learning models and applications, with formal theoretical guarantees and analyses. I am also interested in building trustworthy LLMs.
 
+We have multiple openings for PhD/internship positions for 2024/25 entry. Scholarships are available from [University of Exeter](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/), [CSC-Exeter](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/). Please feel free to contact me g.jin@exeter.ac.uk if you are interested in these positions.
+
 # Publications 
 - Out-of-Bounding-Box Trigger: A Stealthy Approach to Cheat Object Detector, ECCV 2024  
   Tao Lin, Lijia Yu, **Gaojie Jin**, Renjue Li, Peng Wu, Lijun Zhang

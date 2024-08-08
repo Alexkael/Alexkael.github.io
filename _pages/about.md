@@ -46,7 +46,7 @@ I am pleased to announce multiple openings for PhD and internship positions for 
   **Gaojie Jin**, Xinping Yi, Dengyu Wu, Ronghui Mu, Xiaowei Huang
 - Certified Policy Smoothing for Cooperative Multi-Agent Reinforcement Learning, AAAI 2023  
   Ronghui Mu, Wenjie Ruan, LS Marcolino, **Gaojie Jin**, Qiang Ni
-- [Weight Expansion: A New Perspective on Dropout and Generalization](https://openreview.net/forum?id=w3z3sN1b04), TMLR  
+- [Weight Expansion: A New Perspective on Dropout and Generalization](https://openreview.net/forum?id=w3z3sN1b04), TMLR 2022  
   **Gaojie Jin**, Xinping Yi, Pengfei Yang, Lijun Zhang, Sven Schewe, Xiaowei Huang
 - [Enhancing Adversarial Training with Second-Order Statistics of Weights](https://arxiv.org/abs/2203.06020), CVPR 2022    
   **Gaojie Jin**, Xinping Yi, Wei Huang, Sven Schewe, Xiaowei Huang

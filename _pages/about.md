@@ -23,6 +23,12 @@ My research centres on developing efficient and reliable algorithms for modern m
 
 I am pleased to announce multiple openings for PhD and internship positions for the 2024/25 academic year. Scholarships are available through the [University of Exeter](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/) and the [CSC-Exeter program](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/). If you are interested in these opportunities or would like to discuss potential collaborations, please don't hesitate to contact me at g.jin@exeter.ac.uk.
 
+# Funding & Grants
+- Trustworthy Intelligent Algorithms in Complex Environments (Co-I) 2022 - 2027
+- FOCETA (Foundations for Continuous Engineering of Trustworthy Autonomy) (Research Assistant) 2021 - 2023
+- EnnCore (End-to-End Conceptual Guarding of Neural Architectures) (Research Assistant) 2020 - 2024
+- SOLITUDE (Safety Argument for Learning-enabled Autonomous Underwater Vehicles) (Research Assistant) 2020 - 2022
+  
 # Publications 
 - Out-of-Bounding-Box Trigger: A Stealthy Approach to Cheat Object Detector, ECCV 2024  
   Tao Lin, Lijia Yu, **Gaojie Jin**, Renjue Li, Peng Wu, Lijun Zhang

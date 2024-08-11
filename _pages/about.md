@@ -56,5 +56,6 @@ I am pleased to announce multiple openings for PhD and internship positions for 
 # Teaching 
 - ECM1416: Computational Mathematics
 
-# Reviewer
-- ICML, NeurIPS, ICLR, AAAI, CVPR, ICCV, ECCV, JMLR, IJCV 
+# Academic Service
+- Reviewer  
+  ICML, NeurIPS, ICLR, AAAI, CVPR, ICCV, ECCV, JMLR, IJCV 

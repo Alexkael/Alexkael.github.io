@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Lecturer in Computer Science at the University of Exeter, building on my previous experiences at the Chinese Academy of Sciences and the University of Liverpool. I earned my PhD from the University of Liverpool, under the guidance of [Prof. Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/) and [Prof. Xinping Yi](https://sites.google.com/site/xinpingyi00/).
+I am a Lecturer in Computer Science at the University of Exeter, previously I worked at the Chinese Academy of Sciences and the University of Liverpool. I earned my PhD from the University of Liverpool, under the guidance of [Prof. Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/) and [Prof. Xinping Yi](https://sites.google.com/site/xinpingyi00/).
 
 I am an enthusiastic and dedicated researcher doing research on developing efficient and reliable algorithms for modern machine learning models and applications. I focus on key aspects such as generalisation, robustness, privacy, and interpretability, always striving to provide formal theoretical guarantees and analyses. Additionally, I am actively engaged in the emerging field of building trustworthy Large Language Models (LLMs).
 

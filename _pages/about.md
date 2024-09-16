@@ -58,5 +58,5 @@ I am pleased to announce multiple openings for PhD and internship positions for 
 
 # Academic Service
 - Reviewer  
-  ICML, NeurIPS, ICLR, AAAI, CVPR, ICCV, ECCV, JMLR, IJCV
+  ICML, NeurIPS, ICLR, AAAI, CVPR, ICCV, ECCV, JMLR, IJCV, TMLR
 - Organise the workshop [TrustRL: Trustworthy in Reinforcement Learning](https://www.ieee-smart-world.org/2024/atc/workshops.php) at ATC 2024

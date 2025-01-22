@@ -34,6 +34,10 @@ I am pleased to announce multiple openings for PhD and internship positions for 
   Funded by UK DSTL. £400K
   
 # Publications 
+- Enhancing Robust Fairness via Confusional Spectral Regularization, ICLR 2025  
+  **Gaojie Jin**, Sihao Wu, Jiaxu Liu, Tianjin Huang, Ronghui Mu
+- SPAM: Spike-Aware Adam with Momentum Reset for Stable LLM Training, ICLR 2025  
+  Tianjin Huang, Ziquan Zhu, **Gaojie Jin**, Lu Liu, Zhangyang Wang, Shiwei Liu
 - Out-of-Bounding-Box Trigger: A Stealthy Approach to Cheat Object Detector, ECCV 2024  
   Tao Lin, Lijia Yu, **Gaojie Jin**, Renjue Li, Peng Wu, Lijun Zhang
 - Position: Building Guardrails for Large Language Models Requires Systematic Design, ICML 2024  

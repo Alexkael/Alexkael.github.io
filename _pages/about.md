@@ -24,6 +24,7 @@ I am an enthusiastic and dedicated researcher doing research on developing effic
 I am pleased to announce multiple openings for PhD and internship positions for the 2024/25 academic year. Scholarships are available through the [University of Exeter](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/) and the [CSC-Exeter program](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/). If you are interested in these opportunities or would like to discuss potential collaborations, please don't hesitate to contact me at g.jin@exeter.ac.uk.
 
 # Recent News
+- (01/2025) One paper accepted to Frontiers in Neuroscience.
 - (01/2025) Two papers accepted to ICLR2025.
 - (07/2024) Start my position as Lecturer at Exeter.
 - (06/2024) One paper accepted to ECCV2024.

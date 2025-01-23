@@ -33,29 +33,19 @@ I am pleased to announce multiple openings for PhD and internship positions for 
 - SOLITUDE (Safety Argument for Learning-enabled Autonomous Underwater Vehicles) (Research Assistant) 2020 - 2022  
   Funded by UK DSTL. £400K
   
-# Selected Publications 
+# Selected Publications
 - Enhancing Robust Fairness via Confusional Spectral Regularization, ICLR 2025  
   **Gaojie Jin**, Sihao Wu, Jiaxu Liu, Tianjin Huang, Ronghui Mu
-- SPAM: Spike-Aware Adam with Momentum Reset for Stable LLM Training, ICLR 2025  
-  Tianjin Huang, Ziquan Zhu, **Gaojie Jin**, Lu Liu, Zhangyang Wang, Shiwei Liu
-- Out-of-Bounding-Box Trigger: A Stealthy Approach to Cheat Object Detector, ECCV 2024  
-  Tao Lin, Lijia Yu, **Gaojie Jin**, Renjue Li, Peng Wu, Lijun Zhang
-- Position: Building Guardrails for Large Language Models Requires Systematic Design, ICML 2024  
-  D Yi, R Mu, **G Jin**, Y Qi, J Hu, X Zhao, J Meng, W Ruan, X Huang
-- TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models, ICCV 2023  
-  L Zhang, N Xu, P Yang, **G Jin**, CC Huang, L Zhang
-- SAFARI: Versatile and Efficient Evaluations for Robustness of Interpretability, ICCV 2023  
-  Wei Huang, Xingyu Zhao, **Gaojie Jin**, Xiaowei Huang
 - [Randomized Adversarial Training via Taylor Expansion](https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_Randomized_Adversarial_Training_via_Taylor_Expansion_CVPR_2023_paper.pdf), CVPR 2023  
   **Gaojie Jin**, Xinping Yi, Dengyu Wu, Ronghui Mu, Xiaowei Huang
-- Certified Policy Smoothing for Cooperative Multi-Agent Reinforcement Learning, AAAI 2023  
-  Ronghui Mu, Wenjie Ruan, LS Marcolino, **Gaojie Jin**, Qiang Ni
 - [Weight Expansion: A New Perspective on Dropout and Generalization](https://openreview.net/forum?id=w3z3sN1b04), TMLR 2022  
   **Gaojie Jin**, Xinping Yi, Pengfei Yang, Lijun Zhang, Sven Schewe, Xiaowei Huang
 - [Enhancing Adversarial Training with Second-Order Statistics of Weights](https://arxiv.org/abs/2203.06020), CVPR 2022    
   **Gaojie Jin**, Xinping Yi, Wei Huang, Sven Schewe, Xiaowei Huang
 - [How does Weight Correlation Affect the Generalisation Ability of Deep Neural Networks](https://arxiv.org/abs/2010.05983), NeurIPS 2020    
-  **Gaojie Jin**, Xinping Yi, Liang Zhang, Lijun Zhang, Sven Schewe, Xiaowei Huang
+  **Gaojie Jin**, Xinping Yi, Liang Zhang, Lijun Zhang, Sven Schewe, Xiaowei Huang  
+[Full list](https://scholar.google.com/citations?user=n_cu7jwAAAAJ&hl=en)
+
 
 # Teaching 
 - ECM1416: Computational Mathematics

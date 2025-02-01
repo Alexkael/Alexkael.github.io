@@ -34,6 +34,8 @@ I am pleased to announce multiple openings for PhD and internship positions for 
 - (03/2023) One paper accepted to CVPR2023.
 
 # Funding & Grants
+- Two PhD studentships (£120,000 external) 2025 - 2028  
+  Funded by EU Horizon project "Robustifying Generative AI through Human-Centric Integration of Neural and Symbolic Methods" 
 - Trustworthy Intelligent Algorithms in Complex Environments (Co-I) 2022 - 2027  
   Funded by the Chinese Academy of Sciences. CN¥20M (≈£2.2M)  
 - FOCETA (Foundations for Continuous Engineering of Trustworthy Autonomy) (Research Assistant) 2021 - 2023  

@@ -26,11 +26,11 @@ I am pleased to announce multiple openings for PhD and internship positions for 
 # Recent News
 - (02/2025) Get two PhD studentships from the EU Horizon project.
 - (01/2025) Two papers accepted to ICLR2025.
-- (07/2024) Start my position as Lecturer at Exeter.
+- (07/2024) Start my position as a Lecturer at Exeter.
 - (06/2024) One paper accepted to ECCV2024.
 - (05/2024) One paper accepted to PRCV2024.
 - (01/2024) One paper accepted to ICML2024.
-- (07/2023) Start my position as Associate Research Professor at ISCAS.
+- (07/2023) Start my position as an Associate Research Professor at ISCAS.
 - (03/2023) Two papers accepted to ICCV2023.
 - (03/2023) One paper accepted to CVPR2023.
 

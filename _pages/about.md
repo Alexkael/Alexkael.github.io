@@ -24,16 +24,16 @@ I am interested in developing **reliable** algorithms for modern machine learnin
 I am pleased to announce multiple openings for PhD and internship positions for the 2024/25 academic year. Scholarships are available through the [University of Exeter](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/) and the [CSC-Exeter program](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/). If you are interested in these opportunities or would like to discuss potential collaborations, please don't hesitate to contact me at g.jin@exeter.ac.uk.
 
 # Recent News
-- (04/2025) One paper accepted to IEEE Transactions on Information Forensics and Security.
+- (04/2025) One paper accepted to IEEE TIFS.
 - (02/2025) Get two PhD studentships from the EU Horizon project.
-- (01/2025) Two papers accepted to ICLR2025.
+- (01/2025) Two papers accepted to ICLR 2025.
 - (07/2024) Start my position as a Lecturer at Exeter.
-- (06/2024) One paper accepted to ECCV2024.
-- (05/2024) One paper accepted to PRCV2024.
-- (01/2024) One paper accepted to ICML2024.
+- (06/2024) One paper accepted to ECCV 2024.
+- (05/2024) One paper accepted to PRCV 2024.
+- (01/2024) One paper accepted to ICML 2024.
 - (07/2023) Start my position as an Associate Research Professor at ISCAS.
-- (03/2023) Two papers accepted to ICCV2023.
-- (03/2023) One paper accepted to CVPR2023.
+- (03/2023) Two papers accepted to ICCV 2023.
+- (03/2023) One paper accepted to CVPR 2023.
 
 # Funding & Grants
 - Two PhD studentships (£120,000 external) 2025 - 2028  

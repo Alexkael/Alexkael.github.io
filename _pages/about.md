@@ -31,8 +31,6 @@ I am pleased to announce multiple openings for PhD and internship positions for 
 - (07/2024) Start my position as a Lecturer at Exeter.
 - (06/2024) One paper accepted to ECCV 2024.
 - (01/2024) One paper accepted to ICML 2024.
-- (03/2023) Two papers accepted to ICCV 2023.
-- (03/2023) One paper accepted to CVPR 2023.
 
 # Funding & Grants
 - Two PhD studentships (£120,000 external) 2025 - 2028  

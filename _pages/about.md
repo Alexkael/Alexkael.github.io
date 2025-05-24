@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Lecturer (Assistant Professor) in Computer Science at the University of Exeter, previously I worked at the Chinese Academy of Sciences and the University of Liverpool. I earned my PhD from the University of Liverpool, under the supervision of [Prof. Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/) and [Prof. Xinping Yi](https://sites.google.com/site/xinpingyi00/).
 
-I am interested in developing **reliable** algorithms for modern machine learning models and applications. I focuse on **aligning AI with human values/rules**, while providing formal theoretical guarantees and rigorous analyses. 
+I am interested in developing **reliable** algorithms for modern machine learning models and applications. I focuse on **aligning AI with human values/preferences**, while providing formal theoretical guarantees and rigorous analyses. 
 
 I am pleased to announce multiple openings for PhD and internship positions for the 2024/25 academic year. Scholarships are available through the [University of Exeter](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/) and the [CSC-Exeter program](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/). If you are interested in these opportunities or would like to discuss potential collaborations, please don't hesitate to contact me at g.jin@exeter.ac.uk.
 

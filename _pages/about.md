@@ -24,6 +24,7 @@ I am interested in developing **reliable** algorithms for modern machine learnin
 I am pleased to announce multiple openings for PhD and internship positions for the 2024/25 academic year. Scholarships are available through the [University of Exeter](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/) and the [CSC-Exeter program](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/). If you are interested in these opportunities or would like to discuss potential collaborations, please don't hesitate to contact me at g.jin@exeter.ac.uk.
 
 # Recent News
+- (06/2025) One paper accepted to IEEE TPAMI.
 - (05/2025) I will be serving as an Area Chair for NeurIPS 2025 (Position Paper Track).
 - (04/2025) One paper accepted to IEEE TIFS.
 - (02/2025) Get two PhD studentships from the EU Horizon project.
@@ -51,7 +52,7 @@ I am pleased to announce multiple openings for PhD and internship positions for 
   **Gaojie Jin**, Xinping Yi, Dengyu Wu, Ronghui Mu, Xiaowei Huang
 - [Weight Expansion: A New Perspective on Dropout and Generalization](https://openreview.net/forum?id=w3z3sN1b04), TMLR 2022  
   **Gaojie Jin**, Xinping Yi, Pengfei Yang, Lijun Zhang, Sven Schewe, Xiaowei Huang
-- [Enhancing Adversarial Training with Second-Order Statistics of Weights](https://arxiv.org/abs/2203.06020), CVPR 2022    
+- [Enhancing Adversarial Training with Second-Order Statistics of Weights](https://arxiv.org/abs/2203.06020), CVPR 2022, TPAMI 2025    
   **Gaojie Jin**, Xinping Yi, Wei Huang, Sven Schewe, Xiaowei Huang
 - [How does Weight Correlation Affect the Generalisation Ability of Deep Neural Networks](https://arxiv.org/abs/2010.05983), NeurIPS 2020    
   **Gaojie Jin**, Xinping Yi, Liang Zhang, Lijun Zhang, Sven Schewe, Xiaowei Huang  

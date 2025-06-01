@@ -36,8 +36,6 @@ I am pleased to announce multiple openings for PhD and internship positions for 
 # Funding & Grants
 - Two PhD studentships (£120,000 external) 2025 - 2028  
   Funded by the EU Horizon project "Robustifying Generative AI through Human-Centric Integration of Neural and Symbolic Methods" 
-- Trustworthy Intelligent Algorithms in Complex Environments (Co-I) 2022 - 2027  
-  Funded by the Chinese Academy of Sciences. CN¥20M (≈£2.2M)  
 - FOCETA (Foundations for Continuous Engineering of Trustworthy Autonomy) (Research Assistant) 2021 - 2023  
   Funded by EU H2020. €4,985,540  
 - EnnCore (End-to-End Conceptual Guarding of Neural Architectures) (Research Assistant) 2020 - 2024  

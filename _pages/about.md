@@ -36,7 +36,7 @@ I am pleased to announce multiple openings for PhD and internship positions for 
 
 # Funding & Grants
 - Robustifying Generative AI through Human-Centric Integration of Neural and Symbolic Methods (External Participant) 2025 - 2028  
-  Funded by the EU Horizon.  
+  Funded by EU Horizon.  
 - FOCETA (Foundations for Continuous Engineering of Trustworthy Autonomy) (Research Assistant) 2021 - 2023  
   Funded by EU H2020. €4,985,540  
 - EnnCore (End-to-End Conceptual Guarding of Neural Architectures) (Research Assistant) 2020 - 2024  

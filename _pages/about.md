@@ -61,7 +61,6 @@ I am pleased to announce multiple openings for PhD and internship positions for 
   </div>
 </div>
 
-<br>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/TIFS2025.jpg" style="width: 250px; margin-right: 20px;" alt="Paper image">
   <div>
@@ -70,7 +69,6 @@ I am pleased to announce multiple openings for PhD and internship positions for 
   </div>
 </div>
 
-<br>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/CVPR2023.jpg" style="width: 400px; margin-right: 20px;" alt="Paper image">
   <div>
@@ -79,7 +77,6 @@ I am pleased to announce multiple openings for PhD and internship positions for 
   </div>
 </div>
 
-<br>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/NeurIPS2020.jpg" style="width: 350px; margin-right: 20px;" alt="Paper image">
   <div>
@@ -88,7 +85,6 @@ I am pleased to announce multiple openings for PhD and internship positions for 
   </div>
 </div>
 
-<br>
 [Full list](https://scholar.google.com/citations?user=n_cu7jwAAAAJ&hl=en)
 
 

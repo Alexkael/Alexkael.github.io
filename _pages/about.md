@@ -91,6 +91,14 @@ I am pleased to announce multiple openings for PhD and internship positions for 
 # Teaching 
 - ECM1416: Computational Mathematics
 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/MLsafety.jpg" style="width: 100px; margin-right: 20px;" alt="Paper image">
+  <div>
+    <a href="https://link.springer.com/book/10.1007/978-981-19-6814-3" target="_blank"><b>Textbook: Machine Learning Safety</b></a>, Springer<br>
+    Xiaowei Huang, <b>Gaojie Jin</b>, Wenjie Ruan
+  </div>
+</div>
+
 # Academic Service
 - Reviewer  
   ICML, NeurIPS, ICLR, AISTATS, AAAI, CVPR, ICCV, ECCV, JMLR, IJCV, TMLR, TIFS, TDSC

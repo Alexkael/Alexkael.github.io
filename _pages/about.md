@@ -53,7 +53,6 @@ I am pleased to announce multiple openings for PhD and internship positions for 
   </div>
 </div>
 
-<br>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/TPAMI2025.jpg" style="width: 250px; margin-right: 20px;" alt="Paper image">
   <div>

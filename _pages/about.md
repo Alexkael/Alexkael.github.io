@@ -70,7 +70,7 @@ I am pleased to announce multiple openings for PhD and internship positions for 
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/CVPR2023.jpg" style="width: 400px; margin-right: 20px;" alt="Paper image">
+  <img src="/images/CVPR2023_.jpg" style="width: 250px; margin-right: 20px;" alt="Paper image">
   <div>
     <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_Randomized_Adversarial_Training_via_Taylor_Expansion_CVPR_2023_paper.pdf" target="_blank"><b>Randomized Adversarial Training via Taylor Expansion</b></a>, CVPR 2023<br>
     <b>Gaojie Jin</b>, Xinping Yi, Dengyu Wu, Ronghui Mu, Xiaowei Huang
@@ -78,7 +78,7 @@ I am pleased to announce multiple openings for PhD and internship positions for 
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/NeurIPS2020.jpg" style="width: 350px; margin-right: 20px;" alt="Paper image">
+  <img src="/images/NeurIPS2020_.jpg" style="width: 250px; margin-right: 20px;" alt="Paper image">
   <div>
     <a href="https://arxiv.org/abs/2010.05983" target="_blank"><b>How does Weight Correlation Affect the Generalisation Ability of Deep Neural Networks</b></a>, NeurIPS 2020<br>
     <b>Gaojie Jin</b>, Xinping Yi, Liang Zhang, Lijun Zhang, Sven Schewe, Xiaowei Huang

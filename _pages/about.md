@@ -30,7 +30,7 @@ I am pleased to announce multiple openings for PhD and internship positions for 
 - (04/2025) One paper accepted to IEEE TIFS.
 - (02/2025) Get two PhD studentships from the EU Horizon project.
 - (01/2025) Two papers accepted to ICLR 2025.
-- (07/2024) Start my position as a Lecturer at Exeter.
+- (07/2024) Start my position as a Lecturer (Assistant Professor) at Exeter.
 - (06/2024) One paper accepted to ECCV 2024.
 - (01/2024) One paper accepted to ICML 2024.
 

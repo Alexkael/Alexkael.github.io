@@ -38,11 +38,11 @@ I am pleased to announce multiple openings for PhD and internship positions for 
 - Robustifying Generative AI through Human-Centric Integration of Neural and Symbolic Methods (External Participant) 2025 - 2028  
   Funded by EU Horizon.  
 - FOCETA (Foundations for Continuous Engineering of Trustworthy Autonomy) (Research Assistant) 2021 - 2023  
-  Funded by EU H2020. €4,985,540  
+  Funded by EU H2020. 
 - EnnCore (End-to-End Conceptual Guarding of Neural Architectures) (Research Assistant) 2020 - 2024  
-  Funded by EPSRC. £1,721,560  
+  Funded by EPSRC. 
 - SOLITUDE (Safety Argument for Learning-enabled Autonomous Underwater Vehicles) (Research Assistant) 2020 - 2022  
-  Funded by UK DSTL. £400K
+  Funded by UK DSTL. 
   
 # Selected Publications
 <div style="display: flex; align-items: center; margin-bottom: 20px;">

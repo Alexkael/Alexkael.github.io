@@ -45,8 +45,14 @@ I am pleased to announce multiple openings for PhD and internship positions for 
   Funded by UK DSTL. £400K
   
 # Selected Publications
-- [Enhancing Robust Fairness via Confusional Spectral Regularization](https://arxiv.org/pdf/2501.13273), ICLR 2025  
-  **Gaojie Jin**, Sihao Wu, Jiaxu Liu, Tianjin Huang, Ronghui Mu
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/iclr2025.jpg" style="width: 250px; margin-right: 20px;" alt="Paper image">
+  <div>
+    <a href="https://arxiv.org/pdf/2501.13273" target="_blank"><b>Enhancing Robust Fairness via Confusional Spectral Regularization</b></a>, ICLR 2025<br>
+    <b>Gaojie Jin</b>, Sihao Wu, Jiaxu Liu, Tianjin Huang, Ronghui Mu
+  </div>
+</div>
+
 - [Randomized Adversarial Training via Taylor Expansion](https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_Randomized_Adversarial_Training_via_Taylor_Expansion_CVPR_2023_paper.pdf), CVPR 2023  
   **Gaojie Jin**, Xinping Yi, Dengyu Wu, Ronghui Mu, Xiaowei Huang
 - [Weight Expansion: A New Perspective on Dropout and Generalization](https://openreview.net/forum?id=w3z3sN1b04), TMLR 2022  

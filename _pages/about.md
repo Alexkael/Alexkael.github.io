@@ -89,6 +89,7 @@ I am pleased to announce multiple openings for PhD and internship positions for 
   </div>
 </div>
 
+<br>
 [Full list](https://scholar.google.com/citations?user=n_cu7jwAAAAJ&hl=en)
 
 

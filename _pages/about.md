@@ -53,14 +53,42 @@ I am pleased to announce multiple openings for PhD and internship positions for 
   </div>
 </div>
 
-- [Randomized Adversarial Training via Taylor Expansion](https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_Randomized_Adversarial_Training_via_Taylor_Expansion_CVPR_2023_paper.pdf), CVPR 2023  
-  **Gaojie Jin**, Xinping Yi, Dengyu Wu, Ronghui Mu, Xiaowei Huang
-- [Weight Expansion: A New Perspective on Dropout and Generalization](https://openreview.net/forum?id=w3z3sN1b04), TMLR 2022  
-  **Gaojie Jin**, Xinping Yi, Pengfei Yang, Lijun Zhang, Sven Schewe, Xiaowei Huang
-- [Enhancing Adversarial Training with Second-Order Statistics of Weights](https://arxiv.org/abs/2203.06020), CVPR 2022, TPAMI 2025    
-  **Gaojie Jin**, Xinping Yi, Wei Huang, Sven Schewe, Xiaowei Huang
-- [How does Weight Correlation Affect the Generalisation Ability of Deep Neural Networks](https://arxiv.org/abs/2010.05983), NeurIPS 2020    
-  **Gaojie Jin**, Xinping Yi, Liang Zhang, Lijun Zhang, Sven Schewe, Xiaowei Huang  
+<br>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/TPAMI2025.jpg" style="width: 250px; margin-right: 20px;" alt="Paper image">
+  <div>
+    <a href="https://arxiv.org/abs/2203.06020" target="_blank"><b>Enhancing Adversarial Training with Second-Order Statistics of Weights</b></a>, CVPR 2022, IEEE TPAMI 2025<br>
+    <b>Gaojie Jin</b>, Xinping Yi, Wei Huang, Sven Schewe, Xiaowei Huan
+  </div>
+</div>
+
+<br>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/TIFS2025.jpg" style="width: 250px; margin-right: 20px;" alt="Paper image">
+  <div>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10969094" target="_blank"><b>Invariant Correlation of Representation with Label</b></a>, IEEE TIFS 2025<br>
+    <b>Gaojie Jin</b>, Ronghui Mu, Xinping Yi, Xiaowei Huang, Lijun Zhang
+  </div>
+</div>
+
+<br>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/CVPR2023.jpg" style="width: 400px; margin-right: 20px;" alt="Paper image">
+  <div>
+    <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_Randomized_Adversarial_Training_via_Taylor_Expansion_CVPR_2023_paper.pdf" target="_blank"><b>Randomized Adversarial Training via Taylor Expansion</b></a>, CVPR 2023<br>
+    <b>Gaojie Jin</b>, Xinping Yi, Dengyu Wu, Ronghui Mu, Xiaowei Huang
+  </div>
+</div>
+
+<br>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/NeurIPS2020.jpg" style="width: 350px; margin-right: 20px;" alt="Paper image">
+  <div>
+    <a href="https://arxiv.org/abs/2010.05983" target="_blank"><b>How does Weight Correlation Affect the Generalisation Ability of Deep Neural Networks</b></a>, NeurIPS 2020<br>
+    <b>Gaojie Jin</b>, Xinping Yi, Liang Zhang, Lijun Zhang, Sven Schewe, Xiaowei Huang
+  </div>
+</div>
+
 [Full list](https://scholar.google.com/citations?user=n_cu7jwAAAAJ&hl=en)
 
 

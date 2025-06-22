@@ -58,7 +58,7 @@ I am pleased to announce multiple openings for PhD and internship positions for 
   <img src="/images/TPAMI2025.jpg" style="width: 250px; margin-right: 20px;" alt="Paper image">
   <div>
     <a href="https://arxiv.org/abs/2203.06020" target="_blank"><b>Enhancing Adversarial Training with Second-Order Statistics of Weights</b></a>, CVPR 2022, IEEE TPAMI 2025<br>
-    <b>Gaojie Jin</b>, Xinping Yi, Wei Huang, Sven Schewe, Xiaowei Huan
+    <b>Gaojie Jin</b>, Xinping Yi, Wei Huang, Sven Schewe, Xiaowei Huang
   </div>
 </div>
 

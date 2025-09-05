@@ -24,6 +24,7 @@ I am interested in developing **reliable** (e.g., robust, generalisable, and eff
 I am pleased to announce multiple openings for PhD and internship positions for the 2024/25 academic year. Scholarships are available through the [University of Exeter](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/) and the [CSC-Exeter program](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/). If you are interested in these opportunities or would like to discuss potential collaborations, please don't hesitate to contact me at g.jin@exeter.ac.uk.
 
 # Recent News
+- (09/2025) I will be serving as an Area Chair for ICLR 2026.
 - (06/2025) One paper accepted to TMLR.
 - (06/2025) One paper accepted to IEEE TPAMI.
 - (05/2025) I will be serving as an Area Chair for NeurIPS 2025 (Position Paper Track).
@@ -103,5 +104,5 @@ I am pleased to announce multiple openings for PhD and internship positions for 
 - Reviewer  
   ICML, NeurIPS, ICLR, AISTATS, AAAI, CVPR, ICCV, ECCV, JMLR, IJCV, TMLR, TIFS, TDSC
 - Area Chair  
-  NeurIPS 2025 (Position Paper Track)
+  NeurIPS 2025 (Position Paper Track), ICLR 2026
 - Organise the workshop [TrustRL: Trustworthy in Reinforcement Learning](https://www.ieee-smart-world.org/2024/atc/workshops.php) at ATC 2024

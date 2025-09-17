@@ -37,6 +37,7 @@ I am pleased to announce multiple openings for PhD and internship positions for 
 - (01/2024) One paper accepted to ICML 2024.
 
 # Funding & Grants
+- NVIDIA Academic Grant Program (2025): Exploiting Overthinking Attacks on GenAI (PI)
 - Robustifying Generative AI through Human-Centric Integration of Neural and Symbolic Methods (External Participant) 2025 - 2028  
   Funded by EU Horizon.  
 - FOCETA (Foundations for Continuous Engineering of Trustworthy Autonomy) (Research Assistant) 2021 - 2023  

@@ -93,6 +93,7 @@ I am pleased to announce multiple openings for PhD and internship positions for 
 
 # Teaching 
 - ECM1416: Computational Mathematics
+- COMM113: Deep Learning
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/MLsafety.jpg" style="width: 100px; margin-right: 20px;" alt="Paper image">

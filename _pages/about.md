@@ -24,13 +24,14 @@ I am interested in developing **reliable** (e.g., robust, generalisable, and eff
 I am pleased to announce multiple openings for PhD and internship positions for the 2024/25 academic year. Scholarships are available through the [University of Exeter](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/) and the [CSC-Exeter program](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/). If you are interested in these opportunities or would like to discuss potential collaborations, please don't hesitate to contact me at g.jin@exeter.ac.uk.
 
 # Recent News
+- (10/2025) Got a grant from Isambard-AI with 10000 GPU hours. 
 - (09/2025) Got a grant from NVIDIA Academic Grant Program.
 - (09/2025) I will be serving as an Area Chair for ICLR 2026.
 - (06/2025) One paper accepted to TMLR.
 - (06/2025) One paper accepted to IEEE TPAMI.
 - (05/2025) I will be serving as an Area Chair for NeurIPS 2025 (Position Paper Track).
 - (04/2025) One paper accepted to IEEE TIFS.
-- (02/2025) Get two PhD studentships from the EU Horizon project.
+- (02/2025) Got two PhD studentships from the EU Horizon project.
 - (01/2025) Two papers accepted to ICLR 2025.
 - (07/2024) Start my position as a Lecturer (Assistant Professor) at Exeter.
 - (06/2024) One paper accepted to ECCV 2024.

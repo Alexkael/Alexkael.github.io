@@ -30,6 +30,7 @@ Currently, my research interests include, but are not limited to:
 I am pleased to announce multiple openings for PhD and internship positions for the 2025/26 academic year. Scholarships are available through the [University of Exeter](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/) and the [CSC-Exeter program](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/). If you are interested in these opportunities or would like to discuss potential collaborations, please don't hesitate to contact me at g.jin@exeter.ac.uk.
 
 # Recent News
+- (01/2026) One paper accepted to IEEE TIP.    
 - (11/2025) I will be serving as an Associate Editor for Theoretical Computer Science.  
 - (11/2025) Two papers accepted to AAAI 2026.  
 - (10/2025) Got a grant from Isambard-AI with 10000 GPU hours. 

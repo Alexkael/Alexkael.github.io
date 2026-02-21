@@ -30,6 +30,7 @@ Currently, my research interests include, but are not limited to:
 I am pleased to announce multiple openings for PhD and internship positions for the 2025/26 academic year. Scholarships are available through the [University of Exeter](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/) and the [CSC-Exeter program](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/). If you are interested in these opportunities or would like to discuss potential collaborations, please don't hesitate to contact me at g.jin@exeter.ac.uk.
 
 # Recent News
+- (02/2026) One paper accepted to CVPR 2026.
 - (01/2026) One paper accepted to ICLR 2026.
 - (01/2026) One paper accepted to ICASSP 2026. 
 - (01/2026) One paper accepted to IEEE TIP.    

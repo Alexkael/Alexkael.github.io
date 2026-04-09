@@ -31,7 +31,7 @@ I am pleased to announce multiple openings for PhD and internship positions for 
 
 # Recent News
 - (03/2026) I will be serving as an Area Chair for NeurIPS 2026.
-- (02/2026) One paper accepted to CVPR 2026.
+- (02/2026) One paper accepted to CVPR 2026 (**Oral**)!
 - (01/2026) One paper accepted to ICLR 2026.
 - (01/2026) One paper accepted to ICASSP 2026. 
 - (01/2026) One paper accepted to IEEE TIP.    

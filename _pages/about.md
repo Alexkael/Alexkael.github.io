@@ -121,7 +121,7 @@ I am pleased to announce multiple openings for PhD and internship positions for 
   </div>
 </div>
 
-# Supervised Students (as Main Supervisor)
+# Supervised Students (as Primary Supervisor)
 - Xinyu Li (PhD candidate at Exeter since 02/2026)  
   Published: ICML 2026
 

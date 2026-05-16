@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Lecturer (Assistant Professor) in Computer Science at the University of Exeter, previously I worked at the Chinese Academy of Sciences and the University of Liverpool. I earned my PhD from the University of Liverpool, under the supervision of [Prof. Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/) and [Prof. Xinping Yi](https://sites.google.com/site/xinpingyi00/).
+I am a Lecturer (Assistant Professor) in Computer Science at the University of Exeter, previously I worked at the Chinese Academy of Sciences and the University of Liverpool. 
 
 I am interested in developing **reliable** (e.g., robust, generalisable, and efficient [[NeurIPS20](https://proceedings.neurips.cc/paper_files/paper/2020/file/f48c04ffab49ff0e5d1176244fdfb65c-Paper.pdf),[CVPR22](https://arxiv.org/abs/2203.06020),[23](https://openaccess.thecvf.com/content/CVPR2023/html/Jin_Randomized_Adversarial_Training_via_Taylor_Expansion_CVPR_2023_paper.html),[ICCV23a](https://openaccess.thecvf.com/content/ICCV2023/html/Huang_SAFARI_Versatile_and_Efficient_Evaluations_for_Robustness_of_Interpretability_ICCV_2023_paper.html),[TIFS25](https://ieeexplore.ieee.org/abstract/document/10969094),[ICLR25a](https://arxiv.org/abs/2501.06842)]) algorithms for modern machine learning models and applications [[ICCV23b](https://openaccess.thecvf.com/content/ICCV2023/html/Huang_SAFARI_Versatile_and_Efficient_Evaluations_for_Robustness_of_Interpretability_ICCV_2023_paper.html),[AAAI23](https://ojs.aaai.org/index.php/AAAI/article/view/26756),[ECCV24](https://link.springer.com/chapter/10.1007/978-3-031-72848-8_16)]. I focuse on aligning AI with human rules/preferences [[ICML24](https://proceedings.mlr.press/v235/dong24c.html),[ICLR25b](https://arxiv.org/abs/2501.13273)], with an emphasis on providing theoretical guarantees and statistical analyses [[TMLR22](https://arxiv.org/abs/2201.09209),[TPAMI25](https://ieeexplore.ieee.org/document/11027475)].
 
@@ -25,7 +25,7 @@ Currently, my research interests include, but are not limited to:
 
 - Trustworthy Human–GenAI Alignment: Developing unified statistical frameworks, e.g., combining PAC-Bayesian theory, conformal prediction, and adversarial analysis, to provide rigorous guarantees for human–GenAI alignment. [ICML26a]
 
-- Efficiency Robustness of GenAI: Building empirical and theoretical foundations to analyse and mitigate vulnerabilities in reasoning efficiency. [ICML26b]
+- Efficiency Robustness of GenAI: Building empirical and theoretical foundations to analyse and mitigate vulnerabilities in reasoning efficiency. [ICML26b],[AAAI26]
 
 I am pleased to announce multiple openings for PhD and internship positions for the 2025/26 academic year. Scholarships are available through the [University of Exeter](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/) and the [CSC-Exeter program](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/). If you are interested in these opportunities or would like to discuss potential collaborations, please don't hesitate to contact me at g.jin@exeter.ac.uk.
 

@@ -23,9 +23,9 @@ I am interested in developing **reliable** (e.g., robust, generalisable, and eff
 
 Currently, my research interests include, but are not limited to:
 
-- Trustworthy Human–GenAI Alignment: Developing unified statistical frameworks, e.g., combining PAC-Bayesian theory, conformal prediction, and adversarial analysis, to provide rigorous guarantees for human–GenAI alignment. [ICML26a]
+- Trustworthy Human–GenAI Alignment: Developing unified statistical frameworks, e.g., combining PAC-Bayesian theory, conformal prediction, and adversarial analysis, to provide rigorous guarantees for human–GenAI alignment. [[ICML26a](https://arxiv.org/pdf/2605.15416)]
 
-- Efficiency Robustness of GenAI: Building empirical and theoretical foundations to analyse and mitigate vulnerabilities in reasoning efficiency. [ICML26b],[AAAI26]
+- Efficiency Robustness of GenAI: Building empirical and theoretical foundations to analyse and mitigate vulnerabilities in reasoning efficiency. [[ICML26b](https://arxiv.org/pdf/2605.08876),[AAAI26](https://ojs.aaai.org/index.php/AAAI/article/view/40486)]
 
 I am pleased to announce multiple openings for PhD and internship positions for the 2025/26 academic year. Scholarships are available through the [University of Exeter](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/) and the [CSC-Exeter program](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/). If you are interested in these opportunities or would like to discuss potential collaborations, please don't hesitate to contact me at g.jin@exeter.ac.uk.
 

@@ -32,10 +32,8 @@ I am pleased to announce multiple openings for PhD and internship positions for 
 # Recent News
 - (04/2026) Three papers accepted to ICML 2026, congrats to all coauthors, congrats to Xinyu for his first paper.
 - (03/2026) I will be serving as an Area Chair for NeurIPS 2026.
-- (02/2026) One paper accepted to CVPR 2026 (**Oral**).
-- (01/2026) One paper accepted to ICLR 2026.
-- (01/2026) One paper accepted to ICASSP 2026. 
-- (01/2026) One paper accepted to IEEE TIP.    
+- (02/2026) One paper accepted to CVPR 2026 (**Oral**), one paper accepted to IEEE ISIT 2026.
+- (01/2026) One paper accepted to ICLR 2026, one paper accepted to IEEE TIP, one paper accepted to ICASSP 2026.     
 - (11/2025) I will be serving as an Associate Editor for Theoretical Computer Science.  
 - (11/2025) Two papers accepted to AAAI 2026.  
 - (10/2025) Got a grant from Isambard-AI with 10000 GPU hours. 

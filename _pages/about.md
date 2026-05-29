@@ -30,6 +30,7 @@ Currently, my research interests include, but are not limited to:
 I am pleased to announce multiple openings for PhD and internship positions for the 2025/26 academic year. Scholarships are available through the [University of Exeter](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/) and the [CSC-Exeter program](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/). If you are interested in these opportunities or would like to discuss potential collaborations, please don't hesitate to contact me at g.jin@exeter.ac.uk.
 
 # Recent News
+- (05/2026) Served as a PhD Viva external examiner for a candidate at King's College London.
 - (04/2026) Three papers accepted to ICML 2026, congrats to all coauthors, congrats to Xinyu for his first paper.
 - (03/2026) I will be serving as an Area Chair for NeurIPS 2026.
 - (02/2026) One paper accepted to CVPR 2026 (**Oral**), one paper accepted to IEEE ISIT 2026.

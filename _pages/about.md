@@ -30,6 +30,7 @@ Currently, my research interests include, but are not limited to:
 I am pleased to announce multiple openings for PhD and internship positions for the 2025/26 academic year. Scholarships are available through the [University of Exeter](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/) and the [CSC-Exeter program](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/). If you are interested in these opportunities or would like to discuss potential collaborations, please don't hesitate to contact me at g.jin@exeter.ac.uk.
 
 # Recent News
+- (08/2026) I will be serving as an Area Chair for ICLR 2027.
 - (08/2026) One paper accepted to EMNLP 2026 (Findings), one paper accepted to MICCAI 2026.
 - (05/2026) Served as a PhD Viva external examiner for a candidate at King's College London.
 - (04/2026) Three papers accepted to ICML 2026, congrats to all coauthors, congrats to Xinyu for his first paper.
@@ -130,7 +131,7 @@ I am pleased to announce multiple openings for PhD and internship positions for 
 - Reviewer  
   ICML, NeurIPS, ICLR, AISTATS, AAAI, CVPR, ICCV, ECCV, JMLR, IJCV, TMLR, TIFS, TDSC
 - Area Chair  
-  NeurIPS 2025/2026, ICLR 2026
+  NeurIPS 2025/2026, ICLR 2026/2027
 - Associate Editor  
   Theoretical Computer Science
 - Organise the workshop [TrustRL: Trustworthy in Reinforcement Learning](https://www.ieee-smart-world.org/2024/atc/workshops.php) at ATC 2024

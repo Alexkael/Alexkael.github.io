@@ -124,7 +124,8 @@ I am pleased to announce multiple openings for PhD and internship positions for 
 
 # Supervised Students (as Primary Supervisor)
 - Xinyu Li (PhD candidate at Exeter since 02/2026)  
-  Published: ICML 2026, EMNLP 2026 (Findings)
+  Published: ICML 2026, EMNLP 2026 (Findings)  
+- Qiutong Xu (PhD candidate at Exeter, expected since 11/2026)
 - Jingxiao Li (PhD candidate at Macau since 09/2026)
 - Zekang Wang (PhD candidate at Macau since 09/2026)
 - Hongyi Zhang (Master Student at Macau since 09/2026)

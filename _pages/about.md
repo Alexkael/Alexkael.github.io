@@ -27,7 +27,7 @@ Currently, my research interests include, but are not limited to:
 
 - Efficiency Robustness of GenAI: Building empirical and theoretical foundations to analyse and mitigate vulnerabilities in reasoning efficiency. [[ICML26b](https://arxiv.org/pdf/2605.08876),[AAAI26](https://ojs.aaai.org/index.php/AAAI/article/view/40486)]
 
-I am pleased to announce multiple openings for PhD and internship positions for the 2025/26 academic year. Scholarships are available through the [University of Exeter](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/) and the [CSC-Exeter program](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/). If you are interested in these opportunities or would like to discuss potential collaborations, please don't hesitate to contact me at g.jin@exeter.ac.uk.
+I am pleased to announce multiple openings for PhD and post-doctoral positions for the 2026/27 academic year. If you are interested in these opportunities or would like to discuss potential collaborations, please don't hesitate to contact me at gaojiejin at um dot edu dot mo.
 
 # Recent News
 - (08/2026) I will be serving as an Area Chair for ICLR 2027.
@@ -114,13 +114,6 @@ I am pleased to announce multiple openings for PhD and internship positions for 
 - ECM1416: Computational Mathematics
 - COMM113: Deep Learning
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/MLsafety.jpg" style="width: 100px; margin-right: 20px;" alt="Paper image">
-  <div>
-    <a href="https://link.springer.com/book/10.1007/978-981-19-6814-3" target="_blank"><b>Textbook: Machine Learning Safety</b></a>, Springer<br>
-    Xiaowei Huang, <b>Gaojie Jin</b>, Wenjie Ruan
-  </div>
-</div>
 
 # Supervised Students (as Primary Supervisor)
 - Xinyu Li (PhD candidate at Exeter since 02/2026)  
@@ -129,7 +122,8 @@ I am pleased to announce multiple openings for PhD and internship positions for 
 - Jingxiao Li (PhD candidate at Macau since 09/2026)
 - Zekang Wang (PhD candidate at Macau since 09/2026)
 - Hongyi Zhang (Master Student at Macau since 09/2026)
-- Yuchen Liu (Master Student at Macau since 09/2026)  
+- Yuchen Liu (Master Student at Macau since 09/2026)
+- Siyuan Lu (Master Student at Macau since 09/2026)  
 
 
 # Academic Service

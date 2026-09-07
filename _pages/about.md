@@ -67,7 +67,7 @@ I am pleased to announce multiple openings for PhD and post-doctoral positions f
   Funded by UK DSTL. 
   
 # Publications
-#:Equal Contribution, *:Corresponding Author
+#:Equal Contribution, ✉️:Corresponding Author
 ## 2026
 
 1. **GradientStabilizer: Fix the Norm, Not the Gradient**  
@@ -79,7 +79,7 @@ I am pleased to announce multiple openings for PhD and post-doctoral positions f
    *Computer Science Review, 61, 100900, 2026.*
 
 3. **BadThink: Triggered Overthinking Attacks on Chain-of-Thought Reasoning in Large Language Models**  
-   S. Liu, R. Li, L. Yu, L. Zhang, Z. Liu, **G. Jin***.  
+   S. Liu, R. Li, L. Yu, L. Zhang, Z. Liu, **G. Jin✉️**.  
    *AAAI Conference on Artificial Intelligence (AAAI), 2026.*
 
 4. **Confusion-Aware Spectral Regularizer for Long-Tailed Recognition**  
@@ -99,11 +99,11 @@ I am pleased to announce multiple openings for PhD and post-doctoral positions f
    *IEEE Transactions on Image Processing (TIP), 2026.*
 
 8. **OTora: A Unified Red Teaming Framework for Reasoning-Level Denial-of-Service in LLM Agents**  
-   X. Li, R. Mu, L. Li, T. Huang, **G. Jin***.  
+   X. Li, R. Mu, L. Li, T. Huang, **G. Jin✉️**.  
    *International Conference on Machine Learning (ICML), 2026.*
 
 9. **Localize-Then-Decide Guarantees for LLM Judgments**  
-   X. Li, Y. Zhou, G. Cao, Z. Fu, T. Huang, **G. Jin***.  
+   X. Li, Y. Zhou, G. Cao, Z. Fu, T. Huang, **G. Jin✉️**.  
    *Findings of the Association for Computational Linguistics: EMNLP, 2026.*
 
 10. **CPR: Chained Perceptual Refinement for Coarse-to-Fine Medical Image Classification**  
@@ -192,7 +192,7 @@ I am pleased to announce multiple openings for PhD and post-doctoral positions f
    *AAAI Conference on Artificial Intelligence (AAAI), 2023.*
 
 6. **TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models**  
-   L. Zhang, N. Xu, P. Yang, **G. Jin***, C. C. Huang, L. Zhang.  
+   L. Zhang, N. Xu, P. Yang, **G. Jin✉️**, C. C. Huang, L. Zhang.  
    *IEEE/CVF International Conference on Computer Vision (ICCV), 2023.*
 
 7. **Machine Learning Safety**  

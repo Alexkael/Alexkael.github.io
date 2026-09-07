@@ -74,45 +74,45 @@ I am pleased to announce multiple openings for PhD and post-doctoral positions f
    Tianjin Huang, Zhangyang Wang, Haotian Hu, Zhenyu Zhang, **Gaojie Jin**, et al.  
    *International Conference on Machine Learning (ICML), 2026.*
 
-2. **Preference Alignment on Diffusion Models: A Comprehensive Survey for Image Generation and Editing**  
+2. **Margin-Adaptive Confidence Ranking for Reliable LLM Judgement**  
+    **G. Jin**, Y. Tao, L. Yu, T. Huang.  
+    *International Conference on Machine Learning (ICML), 2026.*
+
+3. **OTora: A Unified Red Teaming Framework for Reasoning-Level Denial-of-Service in LLM Agents**  
+   X. Li, R. Mu, L. Li, T. Huang, **G. Jin✉️**.  
+   *International Conference on Machine Learning (ICML), 2026.*
+
+4. **Preference Alignment on Diffusion Models: A Comprehensive Survey for Image Generation and Editing**  
    S. Wu, X. Si, C. Xing, J. Wang, **G. Jin**, G. Cheng, X. Huang.  
    *Computer Science Review, 61, 100900, 2026.*
 
-3. **BadThink: Triggered Overthinking Attacks on Chain-of-Thought Reasoning in Large Language Models**  
+5. **BadThink: Triggered Overthinking Attacks on Chain-of-Thought Reasoning in Large Language Models**  
    S. Liu, R. Li, L. Yu, L. Zhang, Z. Liu, **G. Jin✉️**.  
    *AAAI Conference on Artificial Intelligence (AAAI), 2026.*
-
-4. **Confusion-Aware Spectral Regularizer for Long-Tailed Recognition**  
-   Z. Zhu#, **G. Jin#**, H. Zhu#, S. Y. Lu#, Y. Zhang, Z. Fu, R. Mu, G. Zhang, Z. Sun, et al.  
-   *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. Oral.*
-
-5. **Dual-Kernel Adapter: Expanding Spatial Horizons for Data-Constrained Medical Image Analysis**  
-   Z. Zhu, H. Zhu, S. Lu, X. Li, Y. Meng, **G. Jin**, L. Yin, L. Hu, D. Wang, L. Liu, et al.  
-   *International Conference on Learning Representations (ICLR), 2026.*
 
 6. **CluCERT: Certifying LLM Robustness via Clustering-Guided Denoising Smoothing**  
    Z. Wang, **G. Jin**, J. Hu, R. Mu.  
    *AAAI Conference on Artificial Intelligence (AAAI), 2026.*
 
-7. **StealthMark: Harmless and Stealthy Ownership Verification for Medical Segmentation via Uncertainty-Guided Backdoors**  
+7. **Confusion-Aware Spectral Regularizer for Long-Tailed Recognition**  
+   Z. Zhu#, **G. Jin#**, H. Zhu#, S. Y. Lu#, Y. Zhang, Z. Fu, R. Mu, G. Zhang, Z. Sun, et al.  
+   *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. Oral.*
+
+8. **Dual-Kernel Adapter: Expanding Spatial Horizons for Data-Constrained Medical Image Analysis**  
+   Z. Zhu, H. Zhu, S. Lu, X. Li, Y. Meng, **G. Jin**, L. Yin, L. Hu, D. Wang, L. Liu, et al.  
+   *International Conference on Learning Representations (ICLR), 2026.*
+
+9. **StealthMark: Harmless and Stealthy Ownership Verification for Medical Segmentation via Uncertainty-Guided Backdoors**  
    Q. Yu, C. Zhang, **G. Jin**, T. Huang, W. Zhou, W. Li, X. Jin, B. Huang, Y. Zhao, et al.  
    *IEEE Transactions on Image Processing (TIP), 2026.*
 
-8. **OTora: A Unified Red Teaming Framework for Reasoning-Level Denial-of-Service in LLM Agents**  
-   X. Li, R. Mu, L. Li, T. Huang, **G. Jin✉️**.  
-   *International Conference on Machine Learning (ICML), 2026.*
-
-9. **Localize-Then-Decide Guarantees for LLM Judgments**  
+10. **Localize-Then-Decide Guarantees for LLM Judgments**  
    X. Li, Y. Zhou, G. Cao, Z. Fu, T. Huang, **G. Jin✉️**.  
    *Findings of the Association for Computational Linguistics: EMNLP, 2026.*
 
-10. **CPR: Chained Perceptual Refinement for Coarse-to-Fine Medical Image Classification**  
+11. **CPR: Chained Perceptual Refinement for Coarse-to-Fine Medical Image Classification**  
     S. Y. Lu, H. Zhu, Z. Zhu, **G. Jin**, Z. Fu, L. Yin, K. Li, L. Liu, T. Huang.  
     *International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2026.*
-
-11. **Margin-Adaptive Confidence Ranking for Reliable LLM Judgement**  
-    **G. Jin**, Y. Tao, L. Yu, T. Huang.  
-    *International Conference on Machine Learning (ICML), 2026.*
 
 12. **A Unified Framework for PAC-Bayesian Norm-based Generalization Bounds**  
     X. Yi, **G. Jin**, X. Huang, S. Jin.  

@@ -66,46 +66,157 @@ I am pleased to announce multiple openings for PhD and post-doctoral positions f
 - SOLITUDE (Safety Argument for Learning-enabled Autonomous Underwater Vehicles) (Research Assistant) 2020 - 2022  
   Funded by UK DSTL. 
   
-# Selected Publications
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/iclr2025.jpg" style="width: 200px; margin-right: 20px;" alt="Paper image">
-  <div>
-    <a href="https://arxiv.org/pdf/2501.13273" target="_blank"><b>Enhancing Robust Fairness via Confusional Spectral Regularization</b></a>, ICLR 2025<br>
-    <b>Gaojie Jin</b>, Sihao Wu, Jiaxu Liu, Tianjin Huang, Ronghui Mu
-  </div>
-</div>
+# Publications
+#:Equal Contribution, *:Corresponding Author
+## 2026
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/TPAMI2025.jpg" style="width: 200px; margin-right: 20px;" alt="Paper image">
-  <div>
-    <a href="https://ieeexplore.ieee.org/document/11027475" target="_blank"><b>Enhancing Adversarial Training with Second-Order Statistics of Weights</b></a>, CVPR 2022, IEEE TPAMI 2025<br>
-    <b>Gaojie Jin</b>, Xinping Yi, Wei Huang, Sven Schewe, Xiaowei Huang
-  </div>
-</div>
+1. **GradientStabilizer: Fix the Norm, Not the Gradient**  
+   Tianjin Huang, Zhangyang Wang, Haotian Hu, Zhenyu Zhang, **Gaojie Jin**, et al.  
+   *International Conference on Machine Learning (ICML), 2026.*
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/TIFS2025.jpg" style="width: 200px; margin-right: 20px;" alt="Paper image">
-  <div>
-    <a href="https://ieeexplore.ieee.org/abstract/document/10969094" target="_blank"><b>Invariant Correlation of Representation with Label</b></a>, IEEE TIFS 2025<br>
-    <b>Gaojie Jin</b>, Ronghui Mu, Xinping Yi, Xiaowei Huang, Lijun Zhang
-  </div>
-</div>
+2. **Preference Alignment on Diffusion Models: A Comprehensive Survey for Image Generation and Editing**  
+   S. Wu, X. Si, C. Xing, J. Wang, **G. Jin**, G. Cheng, X. Huang.  
+   *Computer Science Review, 61, 100900, 2026.*
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/CVPR2023_.jpg" style="width: 200px; margin-right: 20px;" alt="Paper image">
-  <div>
-    <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_Randomized_Adversarial_Training_via_Taylor_Expansion_CVPR_2023_paper.pdf" target="_blank"><b>Randomized Adversarial Training via Taylor Expansion</b></a>, CVPR 2023<br>
-    <b>Gaojie Jin</b>, Xinping Yi, Dengyu Wu, Ronghui Mu, Xiaowei Huang
-  </div>
-</div>
+3. **BadThink: Triggered Overthinking Attacks on Chain-of-Thought Reasoning in Large Language Models**  
+   S. Liu, R. Li, L. Yu, L. Zhang, Z. Liu, **G. Jin***.  
+   *AAAI Conference on Artificial Intelligence (AAAI), 2026.*
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/NeurIPS2020_.jpg" style="width: 200px; margin-right: 20px;" alt="Paper image">
-  <div>
-    <a href="https://arxiv.org/abs/2010.05983" target="_blank"><b>How does Weight Correlation Affect the Generalisation Ability of Deep Neural Networks</b></a>, NeurIPS 2020<br>
-    <b>Gaojie Jin</b>, Xinping Yi, Liang Zhang, Lijun Zhang, Sven Schewe, Xiaowei Huang
-  </div>
-</div>
+4. **Confusion-Aware Spectral Regularizer for Long-Tailed Recognition**  
+   Z. Zhu#, **G. Jin#**, H. Zhu#, S. Y. Lu#, Y. Zhang, Z. Fu, R. Mu, G. Zhang, Z. Sun, et al.  
+   *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. Oral.*
+
+5. **Dual-Kernel Adapter: Expanding Spatial Horizons for Data-Constrained Medical Image Analysis**  
+   Z. Zhu, H. Zhu, S. Lu, X. Li, Y. Meng, **G. Jin**, L. Yin, L. Hu, D. Wang, L. Liu, et al.  
+   *International Conference on Learning Representations (ICLR), 2026.*
+
+6. **CluCERT: Certifying LLM Robustness via Clustering-Guided Denoising Smoothing**  
+   Z. Wang, **G. Jin**, J. Hu, R. Mu.  
+   *AAAI Conference on Artificial Intelligence (AAAI), 2026.*
+
+7. **StealthMark: Harmless and Stealthy Ownership Verification for Medical Segmentation via Uncertainty-Guided Backdoors**  
+   Q. Yu, C. Zhang, **G. Jin**, T. Huang, W. Zhou, W. Li, X. Jin, B. Huang, Y. Zhao, et al.  
+   *IEEE Transactions on Image Processing (TIP), 2026.*
+
+8. **OTora: A Unified Red Teaming Framework for Reasoning-Level Denial-of-Service in LLM Agents**  
+   X. Li, R. Mu, L. Li, T. Huang, **G. Jin***.  
+   *International Conference on Machine Learning (ICML), 2026.*
+
+9. **Localize-Then-Decide Guarantees for LLM Judgments**  
+   X. Li, Y. Zhou, G. Cao, Z. Fu, T. Huang, **G. Jin***.  
+   *Findings of the Association for Computational Linguistics: EMNLP, 2026.*
+
+10. **CPR: Chained Perceptual Refinement for Coarse-to-Fine Medical Image Classification**  
+    S. Y. Lu, H. Zhu, Z. Zhu, **G. Jin**, Z. Fu, L. Yin, K. Li, L. Liu, T. Huang.  
+    *International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2026.*
+
+11. **Margin-Adaptive Confidence Ranking for Reliable LLM Judgement**  
+    **G. Jin**, Y. Tao, L. Yu, T. Huang.  
+    *International Conference on Machine Learning (ICML), 2026.*
+
+12. **A Unified Framework for PAC-Bayesian Norm-based Generalization Bounds**  
+    X. Yi, **G. Jin**, X. Huang, S. Jin.  
+    *IEEE International Symposium on Information Theory (ISIT), 2026, pp. 1–6.*
+
+13. **TRAJRS: Towards Certified Robustness in Pedestrian Trajectory Prediction**  
+    L. Zhang, **G. Jin**, Y. Shi, Q. Li, C. C. Huang, D. N. Jansen, L. Zhang.  
+    *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026.*
+
+
+## 2025
+
+1. **Safeguarding Large Language Models: A Survey**  
+   Y. Dong, R. Mu, Y. Zhang, S. Sun, T. Zhang, C. Wu, **G. Jin**, Y. Qi, J. Hu, J. Meng, et al.  
+   *Artificial Intelligence Review, 58(12), 382, 2025.*
+
+2. **SPAM: Spike-Aware Adam with Momentum Reset for Stable LLM Training**  
+   T. Huang, Z. Zhu, **G. Jin**, L. Liu, Z. Wang, S. Liu.  
+   *International Conference on Learning Representations (ICLR), 2025.*
+
+3. **Enhancing Robust Fairness via Confusional Spectral Regularization**  
+   **G. Jin**, S. Wu, J. Liu, T. Huang, R. Mu.  
+   *International Conference on Learning Representations (ICLR), 2025.*
+
+4. **Invariant Correlation of Representation with Label: Enhancing Domain Generalization in Noisy Environments**  
+   **G. Jin**, R. Mu, X. Yi, X. Huang, L. Zhang.  
+   *IEEE Transactions on Information Forensics and Security (TIFS), 2025.*
+
+5. **Toward Linearly Regularizing the Geometric Bottleneck of Linear Generalized Attention**  
+   J. Liu, X. Yi, X. Yin, Y. Song, **G. Jin**, X. Huang.  
+   *Transactions on Machine Learning Research (TMLR), 2025.*
+
+6. **S²O: Enhancing Adversarial Training with Second-Order Statistics of Weights**  
+   **G. Jin**, X. Yi, W. Huang, S. Schewe, X. Huang.  
+   *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025.*  
+
+
+## 2024
+
+1. **Position: Building Guardrails for Large Language Models Requires Systematic Design**  
+   D. Yi, R. Mu, **G. Jin**, Y. Qi, J. Hu, X. Zhao, J. Meng, W. Ruan, X. Huang.  
+   *International Conference on Machine Learning (ICML), 2024.*
+
+2. **Formal Verification of Robustness and Resilience of Learning-Enabled State Estimation Systems**  
+   W. Huang, Y. Zhou, **G. Jin**, Y. Sun, J. Meng, F. Zhang, X. Huang.  
+   *Neurocomputing, 585, 127643, 2024.*
+
+3. **Class-Aware Cross Pseudo Supervision Framework for Semi-Supervised Multi-organ Segmentation in Abdominal CT Scans**  
+   D. Yang, H. Zhao, **G. Jin**, H. Meng, L. Zhang.  
+   *Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2024.*
+
+4. **Out-of-Bounding-Box Triggers: A Stealthy Approach to Cheat Object Detectors**  
+   T. Lin, L. Yu, **G. Jin**, R. Li, P. Wu, L. Zhang.  
+   *European Conference on Computer Vision (ECCV), 2024.*
+
+
+## 2023
+
+1. **A Survey of Safety and Trustworthiness of Large Language Models through the Lens of Verification and Validation**  
+   X. Huang, W. Ruan, W. Huang, **G. Jin**, Y. Dong, C. Wu, S. Bensalem, R. Mu, et al.  
+   *Artificial Intelligence Review, 2023.*
+
+2. **Randomized Adversarial Training via Taylor Expansion**  
+   **G. Jin**, X. Yi, D. Wu, R. Mu, X. Huang.  
+   *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.*
+
+3. **SAFARI: Versatile and Efficient Evaluations for Robustness of Interpretability**  
+   W. Huang, X. Zhao, **G. Jin**, X. Huang.  
+   *IEEE/CVF International Conference on Computer Vision (ICCV), 2023.*
+
+4. **Optimising Event-Driven Spiking Neural Network with Regularisation and Cutoff**  
+   D. Wu, **G. Jin**, H. Yu, X. Yi, X. Huang.  
+   *Frontiers in Neuroscience, 2023.*
+
+5. **Certified Policy Smoothing for Cooperative Multi-Agent Reinforcement Learning**  
+   R. Mu, W. Ruan, L. S. Marcolino, **G. Jin**, Q. Ni.  
+   *AAAI Conference on Artificial Intelligence (AAAI), 2023.*
+
+6. **TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models**  
+   L. Zhang, N. Xu, P. Yang, **G. Jin***, C. C. Huang, L. Zhang.  
+   *IEEE/CVF International Conference on Computer Vision (ICCV), 2023.*
+
+7. **Machine Learning Safety**  
+   X. Huang, **G. Jin**, W. Ruan.  
+   *Machine Learning Safety, pp. 3–13, 2023.*
+
+
+## 2022
+
+1. **S²O: Enhancing Adversarial Training with Second-Order Statistics of Weights**  
+   **G. Jin**, X. Yi, W. Huang, S. Schewe, X. Huang.  
+   *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.*  
+   *(Later extended in IEEE TPAMI, 2025.)*
+
+2. **Weight Expansion: A New Perspective on Dropout and Generalization**  
+   **G. Jin**, X. Yi, P. Yang, L. Zhang, S. Schewe, X. Huang.  
+   *Transactions on Machine Learning Research (TMLR), 2022.*
+
+
+## 2020
+
+1. **How Does Weight Correlation Affect the Generalisation Ability of Deep Neural Networks**  
+   **G. Jin**, X. Yi, L. Zhang, L. Zhang, S. Schewe, X. Huang.  
+   *Advances in Neural Information Processing Systems (NeurIPS), 2020.*
 
 [Full list](https://scholar.google.com/citations?user=n_cu7jwAAAAJ&hl=en)
 

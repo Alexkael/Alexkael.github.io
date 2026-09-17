@@ -234,7 +234,6 @@ I am pleased to announce multiple openings for PhD and post-doctoral positions f
 - Zekang Wang (PhD candidate at Macau since 09/2026)
 - Hongyi Zhang (Master Student at Macau since 09/2026)
 - Yuchen Liu (Master Student at Macau since 09/2026)
-- Siyuan Lu (Master Student at Macau since 09/2026)  
 
 
 # Academic Service

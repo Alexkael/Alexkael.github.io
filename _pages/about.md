@@ -123,6 +123,14 @@ I am pleased to announce multiple openings for PhD and post-doctoral positions f
     L. Zhang, **G. Jin**, Y. Shi, Q. Li, C. C. Huang, D. N. Jansen, L. Zhang.  
     *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026.*
 
+14. **Interpretable but Fragile? Robustness of Concept Bottlenecks under Geometric-Semantic Perturbations**  
+   H. Zhang, T. Hu, **G. Jin**, X. Cheng, R. Mu  
+   *Advances in Neural Information Processing Systems (NeurIPS), 2026.*
+
+15. **Learning to Search, Searching to Learn: A Closed-Loop Framework for Large-Scale Vehicle Routing**  
+   Y. Fu, Y. Zhou, **G. Jin**, G. Cao  
+   *Advances in Neural Information Processing Systems (NeurIPS), 2026.*
+
 
 ## 2025
 

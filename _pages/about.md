@@ -68,7 +68,6 @@ I am pleased to announce multiple openings for PhD and post-doctoral positions f
   Funded by UK DSTL. 
   
 # Publications
-#:Equal Contribution, ✉️:Corresponding Author
 ## 2026
 
 1. **GradientStabilizer: Fix the Norm, Not the Gradient**  

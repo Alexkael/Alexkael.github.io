@@ -23,7 +23,7 @@ I lead the **ALIGN Lab** (AI Alignment and Intelligence Guarantees Lab), where w
 
 Currently, our research interests include, but are not limited to:
 
-- Trustworthy Human–GenAI Alignment: Developing unified statistical frameworks, e.g., combining PAC-Bayesian theory, conformal prediction, and adversarial analysis, to provide rigorous guarantees for human–GenAI alignment. [[ICML26a](https://arxiv.org/pdf/2605.15416),[EMNLP26](https://arxiv.org/abs/2608.25824)]
+- Trustworthy Human–GenAI Alignment/Judgment: Developing unified statistical frameworks, e.g., combining PAC-Bayesian theory, conformal prediction, and adversarial analysis, to provide rigorous guarantees for human–GenAI alignment/judgment. [[ICML26a](https://arxiv.org/pdf/2605.15416),[EMNLP26](https://arxiv.org/abs/2608.25824)]
 
 - Efficiency Robustness of GenAI: Building empirical and theoretical foundations to analyse and mitigate vulnerabilities in reasoning efficiency. [[ICML26b](https://arxiv.org/pdf/2605.08876),[AAAI26](https://ojs.aaai.org/index.php/AAAI/article/view/40486)]
 

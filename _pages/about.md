@@ -30,7 +30,7 @@ Currently, our research interests include, but are not limited to:
 I am pleased to announce multiple openings for PhD and post-doctoral positions for the 2027/28 academic year. If you are interested in these opportunities or would like to discuss potential collaborations, please don't hesitate to contact me at gaojiejin at um dot edu dot mo.
 
 # Recent News
-- (11/2026) Give a invited talk at Northeastern University London.
+- (11/2026) Give an invited talk at Northeastern University London.
 - (09/2026) Two papers accepted to NeurIPS 2026, congrats to all coauthors.
 - (08/2026) I will be serving as an Area Chair for ICLR 2027.
 - (08/2026) One paper accepted to EMNLP 2026 (Findings), one paper accepted to MICCAI 2026.
